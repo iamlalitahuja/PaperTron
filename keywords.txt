@@ -1,0 +1,38 @@
+#######################################
+# Syntax Coloring Map For PaperTron
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+PaperTron	KEYWORD1	PaperTron
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Begin	   			KEYWORD2
+touchBegin			KEYWORD2
+RGBDisco			KEYWORD2
+RGB	        		KEYWORD2
+pinSetup			KEYWORD2
+touchPads			KEYWORD2
+touchRead			KEYWORD2
+Blink    			KEYWORD2
+onBoardRGB			KEYWORD2
+pinModeRGB			KEYWORD2
+fadeIn  			KEYWORD2
+fadeOut 			KEYWORD2
+isHigh  			KEYWORD2
+Ultrasonic			KEYWORD2
+IR					KEYWORD2
+LDR					KEYWORD2
+Tilt 				KEYWORD2
+Reed				KEYWORD2
+Temperature			KEYWORD2
+pinModeOnBoardRGB	KEYWORD2
+RGBColorChange		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
